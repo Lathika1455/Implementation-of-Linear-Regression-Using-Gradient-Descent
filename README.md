@@ -56,18 +56,21 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
-
+```
 <img width="558" height="222" alt="image" src="https://github.com/user-attachments/assets/bd351e6d-b685-4df3-9bdc-abcbc241a3d3" />
+```
 
-
+```
 <img width="225" height="713" alt="image" src="https://github.com/user-attachments/assets/acf13d4e-b763-411a-8578-50eb53870586" />
+```
 
-
+```
 <img width="343" height="707" alt="image" src="https://github.com/user-attachments/assets/3213808b-3972-4aba-a8eb-3a70e0029501" />
+```
 
-
+```
 <img width="247" height="46" alt="image" src="https://github.com/user-attachments/assets/4a280f64-a4c5-4570-b94a-6afb9c5a7278" />
-
+```
 
 
 
